@@ -1,0 +1,16 @@
+.row{
+    background-color: #a1b5cb;
+    padding: 20px;
+}
+
+h2{
+    margin-bottom: 2em;
+}
+
+div{
+    text-align: center;
+}
+
+.col-xs-12{
+    margin: 0%;
+}

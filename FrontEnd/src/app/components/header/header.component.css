@@ -1,7 +1,10 @@
 #imgLogo{
-    background-color: aquamarine;
+    background-color: #a1b5cb;
 }
 
+#conteinerBanner{
+    padding: 0%;
+}
 app-social{
     float: right;
     margin: 1em 1em;    
